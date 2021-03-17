@@ -1,0 +1,68 @@
+.corpo{
+	text-align: center;
+  
+  	counter-reset: subsection;
+  	background-color: White;
+  	position: absolute;
+  	top: 0;
+  	right: 0;
+  	height: 760px;
+  	border: 5px solid #7C404E;
+  	width: 1100px;
+
+}
+.imgCards1 {
+	position: absolute;
+	top: 280px;
+	right: 0;
+	height: 220px;
+  	width: 350px;
+  	border: 2px solid #7C404E;
+}
+.imgCards2 {
+	position: relative;
+	top: 10px;
+	height: 250px;
+  	width: 800px;
+  	border: 3px solid #7C404E;
+}
+.imgCards3{
+	border: 2px solid #7C404E;
+	height: 220px;
+  	width: 350px;
+  	
+}
+.imgCards4 {
+	position: relative;
+	top: 60px;
+	height:200px;
+  	width: 1100px;
+ }
+ .imgCards5{
+ 	border: 2px solid #7C404E;
+	position: relative;
+	height: 220px;
+  	width: 350px;	
+}
+.card5{
+	position: absolute;
+	width: 0;
+	top: 280px;
+}
+.card3{
+	top: 20px;
+	position: relative;
+	
+	
+}
+.perfil{
+	
+	width:220px; 
+	height: 220px;
+	border: 4px solid #9E207A;
+  	border-radius: 12px;
+}
+.redes{
+	width: 50px; 
+	height: 50px;
+}
